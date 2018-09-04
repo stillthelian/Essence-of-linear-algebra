@@ -1,3 +1,2 @@
 # Essence-of-linear-algebra
-
-https://github.com/stillthelian/Essence-of-linear-algebra.git
+https://www.youtube.com/watch?v=k7RM-ot2NWY
